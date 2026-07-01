@@ -1,0 +1,29 @@
+Linux Task 01 - Notes
+
+Linux Distribution:
+Kali Linux 2026.1 (VirtualBox)
+
+What I Learned:
+- Linux is a free and open-source operating system.
+- The Linux Terminal is used to execute commands.
+- The 'pwd' command shows the current working directory.
+- The 'ls' command lists files and folders.
+- The 'ls -la' command displays all files, including hidden files.
+- The 'cd' command is used to change directories.
+- The 'clear' command clears the terminal screen.
+- The 'history' command displays previously executed commands.
+- The 'whoami' command shows the current logged-in user.
+- The 'hostname' command displays the system's hostname.
+- The 'mkdir' command creates new directories.
+- The 'tree' command displays the folder structure.
+- The 'touch' command creates empty files.
+- The 'cp' command copies files.
+- The 'mv' command moves or renames files.
+- The 'rm' command deletes files.
+- The 'uname -a' command displays Linux kernel information.
+- The 'date' command shows the current date and time.
+- The 'uptime' command displays how long the system has been running.
+
+Conclusion:
+This practical helped me understand the basics of Linux, terminal commands, directory management, file management, and system information collection.
+These skills are important for system administration and cybersecurity.
